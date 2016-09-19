@@ -156,6 +156,7 @@
 		3F9E18E31D8901150019F42C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = Avery;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				3F9E190C1D8901150019F42C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F9E190D1D8901150019F42C /* Build configuration list for PBXNativeTarget "TipperTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				3F9E190F1D8901150019F42C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
