@@ -81,7 +81,7 @@
                                 <color key="backgroundColor" red="0.39847313150000002" green="0.49106960669999999" blue="0.96222594900000002" alpha="0.63574911349999996" colorSpace="calibratedRGB"/>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="0.39847313153853464" green="0.49106960669837663" blue="0.96222594895287961" alpha="0.63574911347517726" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.40402196014749686" green="0.48845727542471506" blue="0.96222594895287961" alpha="0.63574911347517726" colorSpace="calibratedRGB"/>
                         <gestureRecognizers/>
                         <connections>
                             <outletCollection property="gestureRecognizers" destination="iV3-rA-TyU" appends="YES" id="Ffm-zK-Q0a"/>
