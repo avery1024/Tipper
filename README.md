@@ -9,4 +9,5 @@ User can enter a bill amount, choose a tip percentage, and see the tip and total
 
 Demo:
 
-![](https://github.com/avery1024/scope_projects/blob/master/demo.gif=500x200)
+<img src="https://github.com/avery1024/scope_projects/blob/master/demo.gif" width="200" height="600"/>
+
